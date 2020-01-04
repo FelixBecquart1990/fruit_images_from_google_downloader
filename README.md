@@ -1,1 +1,0 @@
-# fruit_images_from_google_downloader
